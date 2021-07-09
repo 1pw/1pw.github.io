@@ -4,9 +4,11 @@
   [\widehat{H},{\hat{a}}^\dagger]=\hbar ω\, {\hat{a}}^\dagger
 \end{equation}
 1. On peut écrire
-  \begin{equation*}
+2. 
+  \begin{equation}
 \widehat{H}{\hat{a}}^\dagger=[\widehat{H},{\hat{a}}^\dagger]+{\hat{a}}^\dagger\widehat{H}\,.
-  \end{equation*}
+  \end{equation}
+  
   Par conséquent, en vertu de l'éq.\eqref{eq:1-Hadag} et de~\eqref{eq:1-H-psi0},
   on aura
   \begin{align}
