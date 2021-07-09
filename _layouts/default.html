@@ -131,15 +131,8 @@
     </section>
 
     {% if site.MathJax %}
-    <script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    tex2jax: {
-      skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-      inlineMath: [['$','$']]
-    }
-  });
-</script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async></script>
+
+
 {% endif %}
 
       <script>
@@ -173,5 +166,6 @@
       <script src = '/assets/js/instantclick.min.js' data-no-instant></script>
       <script data-no-instant>InstantClick.init();</script>
       {% endif %}
+      <script src="assets/js/mathjax-config.js" async></script>
   </body>
 </html>
