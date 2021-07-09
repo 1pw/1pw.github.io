@@ -1,5 +1,27 @@
 ## Welcome to GitHub Pages
 
+  \begin{equation}\label{eq:1-Hadag}
+  [\widehat{H},{\hat{a}}^\dagger]=\hbar ω\, {\hat{a}}^\dagger
+\end{equation}
+1. On peut écrire
+  \begin{equation*}
+\widehat{H}{\hat{a}}^\dagger=[\widehat{H},{\hat{a}}^\dagger]+{\hat{a}}^\dagger\widehat{H}\,.
+  \end{equation*}
+  Par conséquent, en vertu de l'éq.\eqref{eq:1-Hadag} et de~\eqref{eq:1-H-psi0},
+  on aura
+  \begin{align}
+    \label{eq:1-1}
+    \widehat{H}\ket{ψ_1}&=\widehat{H}{\hat{a}}^\dagger\ket{ψ_0}\\
+                        &=\left([\widehat{H},{\hat{a}}^\dagger]
+                          +{\hat{a}}^\dagger\widehat{H}\right)
+                          \ket{ψ_0}\\
+                        &=\left(\hbar ω\,{\hat{a}}^\dagger+\half\hbar ω\,
+                          {\hat{a}}^\dagger\right)\ket{ψ_0}\\
+                        &=\frac{3}{2}\hbar ω\,{\hat{a}}^\dagger\ket{ψ_0}\\
+                        &=\frac{3}{2}\hbar ω\ket{ψ_1}\,.
+  \end{align}
+
+
 You can use the [editor on GitHub](https://github.com/1pw/1pw.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
