@@ -13,13 +13,13 @@
   on aura
   \begin{align}
     \label{eq:1-1}
-    \widehat{H}\ket{ψ_1}&=\widehat{H}{\hat{a}}^\dagger\ket{ψ_0}\\\\
+    \widehat{H}\ket{ψ_1}&=\widehat{H}{\hat{a}}^\dagger\ket{ψ_0}\\\
                         &=\left([\widehat{H},{\hat{a}}^\dagger]
                           +{\hat{a}}^\dagger\widehat{H}\right)
                           \ket{ψ_0}\\\\
                         &=\left(\hbar ω\,{\hat{a}}^\dagger+\half\hbar ω\,
-                          {\hat{a}}^\dagger\right)\ket{ψ_0}\\\\
-                        &=\frac{3}{2}\hbar ω\,{\hat{a}}^\dagger\ket{ψ_0}\\\\
+                          {\hat{a}}^\dagger\right)\ket{ψ_0}\\\
+                        &=\frac{3}{2}\hbar ω\,{\hat{a}}^\dagger\ket{ψ_0}\\\
                         &=\frac{3}{2}\hbar ω\ket{ψ_1}\,.
   \end{align}
 
