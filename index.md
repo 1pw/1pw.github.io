@@ -5,7 +5,7 @@
 \end{equation}
 1. On peut écrire
 2. two
-3.three
+3. three
 # Mathjax
   \begin{equation}
 \widehat{H}{\hat{a}}^\dagger=[\widehat{H},{\hat{a}}^\dagger]+{\hat{a}}^\dagger\widehat{H}\,.
