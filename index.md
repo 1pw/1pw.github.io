@@ -4,7 +4,9 @@
   [\widehat{H},{\hat{a}}^\dagger]=\hbar ω\, {\hat{a}}^\dagger
 \end{equation}
 1. On peut écrire
-2. 
+2.
+3.
+
   \begin{equation}
 \widehat{H}{\hat{a}}^\dagger=[\widehat{H},{\hat{a}}^\dagger]+{\hat{a}}^\dagger\widehat{H}\,.
   \end{equation}
